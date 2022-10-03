@@ -1,0 +1,14 @@
+.body {
+  
+    height: 100px;
+    width:100px;
+}.carre {
+    height: 30px;
+    width: 30px;
+    background: red;
+    margin:10px; 
+}
+.vert
+{
+    background-color: chartreuse;
+}
